@@ -10,7 +10,7 @@ section {
 }
 
 body {
-  $bg-image: '/images/bg.jpg';
+  $bg-image: '../images/bg.jpg';
 
   background: url($bg-image) no-repeat 50% 50% fixed;
   background-size: cover;
