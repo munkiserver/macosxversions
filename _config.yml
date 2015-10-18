@@ -1,5 +1,5 @@
 # Site settings
 title: Mac OS X Versions
 email: chilcotr@ohio.edu
-baseurl: "/macosversions" # the subpath of your site, e.g. /blog/
-url: "http://Munkiserver.github.io" # the base hostname & protocol for your site
+baseurl: "/macosxversions" # the subpath of your site, e.g. /blog/
+url: "http://munkiserver.github.io" # the base hostname & protocol for your site
