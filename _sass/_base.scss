@@ -10,7 +10,7 @@ section {
 }
 
 body {
-  $bg-image: 'https://images.unsplash.com/photo-1439853949127-fa647821eba0?q=80&fm=jpg&s=3d92a317dfc68eb6ae5ded1986890762';
+  $bg-image: '/images/bg.jpg';
 
   background: url($bg-image) no-repeat 50% 50% fixed;
   background-size: cover;
